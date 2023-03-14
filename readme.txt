@@ -1,9 +1,9 @@
 ﻿=== Meu Astro ===
 Contributors: Raphael Heide
-Donate link: https://agenciadesigno.com
+Donate link: https://raphaelheide.com
 Tags: horóscopo
 Requires at least: 2.7.0
-Tested up to: 5.2.2
+Tested up to: 6.1
 Stable tag: trunk 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
